@@ -1,1 +1,1 @@
-
+Compilar es el proceso mediante el cual un programa informático escrito en un lenguaje de programación de alto nivel (como C, C++, Java, etc.) se convierte en un lenguaje de bajo nivel que puede ser entendido y ejecutado por una máquina, generalmente el lenguaje de máquina o código binario.
